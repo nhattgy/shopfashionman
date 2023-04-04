@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- swiper js --> 
+    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script> 
+    <!-- swiper css --> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+    <!-- Boxicons -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!-- Bootstrap --> 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous"> 
+    <!-- Jquery --> 
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script> 
+    <link rel="icon" type="image/x-icon" href="./images/logo.svg">
+    <script src="./script/home.js" defer></script>
+    <script src="./script/nav.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Men Fashion Shop</title>
+</head>
+<body>
+    <main>
+        <!-- Hero -->  
+        <section id="hero">
+            <div class="free-shipping">
+                <marquee direction="right" class="m-0">
+                    <b> FREE STANDARD SHIPPING </b> 
+                    <span>ON ORDERS OF $49.99+</span>
+                </marquee>
+            </div>
+            <div class="parallax-content1  mt-5">
+                <nav class="navbar">
+                    <div class="logo">
+                        <img src="./images/logo.svg" alt="logo">
+                        <div class="logo-text">
+                            <p>MEN FASHION</p>
+                            <p>SHOP.</p> 
+                        </div>
+                        <i class='bx bx-menu' id="mobile-menu"></i>
+                    </div>
+                   
+                    <div class="navlinks">
+                        <div class="mobile-navHeader">
+                        </div>
+                        <ul>
+                            <li><a href="./index.html">HOME</a></li>
+                            <li id="shop-li">
+                                <a href="#">SHOP +</a>
+                                <div id="shop">
+                                    <a href="./pages/shops/accessories.html">Accessories</a>
+                                    <a href="./pages/shops/bottoms.html">Bottoms</a>
+                                    <a href="./pages/shops/shoes.html">Shoes</a>
+                                    <a href="./pages/shops/tops.html">Tops</a>
+                                </div>
+                            </li>
+                            <li><a href="./pages/about.html">ABOUT</a></li>
+                            <li><a href="./pages/contact.html">CONTACT</a></li>
+                            <li>
+                                <a href="./pages/cart.html">CART
+                                    <span class="count">0</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+                <div class="hero-content">
+                    <div class="hero-txt">
+                        <h2>THE LOOKBOOK</h2>
+                        <h1>New Collection</h1>
+                        <h1>Men’s T-shirt</h1>
+                        <h2>Price From:</span> <strong>$50.00</strong>
+                    </div>
+                    <a class="hero-btn" href="#advert">Shop now</a>
+                </div>
+            </div>
+        </section>
+        <!-- New Arrival -->  
+        <section id="new-arrival">
+            <div class="new-arrival-container px-5 pt-5 pb-4">
+                <h1 class="mb-5">NEW ARRIVAL</h1>
+                <div class="new-items">
+                    <div class="swiper SwiperSetting">
+                        <div class="swiper-wrapper" id="newArrivalContainer">
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Advert -->  
+        <section id="advert">
+            <div class="advert-container">
+                <div class="advert-banner advert-inner">
+                    <div class="advert-banner-text p-4">
+                        <h3 class="mb-2">Stay Up to Date</h3>
+                        <h1>Men’s Trendy Fashion</h1>
+                        <a class="shopNowBtn">SHOP NOW</a>
+                    </div>
+                </div>
+                <div class="box1 advert-inner">
+                    <div class="row">
+                        <div class="col box1-txt">
+                            <p class="text-muted">Get 40% Off</p> 
+                            <h4>Ulina Trendy</h3>
+                            <h4 class="mb-5">Sunglass</h4> 
+                            <a class="shopNowBtn"  href="./pages/shops/accessories.html">SHOP NOW</a> 
+                        </div>
+                    </div>
+                </div>
+                <div class="box2 advert-inner">
+                 <div class="row">
+                    <div class="col col-text box2-txt">
+                        <p class="text-muted">NEW ARRIVALS</p>
+                        <h2 class="mb-5">PICK COLLECTION</h2>
+                        <a class="shopNowBtn"  href="./pages/shops/bottoms.html">SHOP NOW</a> 
+                    </div>
+                 </div>
+                </div>
+                <div class="box3 advert-inner p-5 box3-txt">
+                    <p class="text-muted">NEW IN 2022</p>
+                    <h4>Discover New</h4>
+                    <h4 class="mb-5">Bag Collection</h1>
+                    <a class="shopNowBtn" href="./pages/shops/accessories.html">SHOP NOW</a>
+                </div>
+                <div class="box4 advert-inner">
+                    <div class="row">
+                        <div class="col col-text box4-txt">
+                            <p class="text-muted">NEW TRENDS</p>
+                            <h2 class="mb-5">BEST SELLINGS</h2>
+                            <a class="shopNowBtn mb-3"  href="./pages/shops/tops.html">SHOP NOW</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Feature --> 
+        <section class="feature">
+            <div class="row m-0">
+                <div class="col-xl-8 p-0 m-auto">
+                    <div class="row m-auto">
+                        <div class="col-md-6 px-0 m-0">
+                            <p class="fs-4 fw-bold">BEST SELLING</p>
+                            <div id="bestSelling_items">
+                            </div>
+                        </div>
+                        <div class="col-md-6 px-0 m-0">
+                            <p class="fs-4 fw-bold">ON SALE</p>
+                            <div id="onSale_items">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 p-0 m-auto">
+                    <div class="row g-4 m-auto">
+                        <div class="col-xl-12 col-md-6 ps-md-0 p-xl-0 no_p">
+                           <div class="mini-ad1 p-5">
+                               <h2 class="mb-5">Designer <br>
+                                Shoes</h2>
+                                <a class="shopNowBtn" href="./pages/shops/shoes.html">SHOP NOW</a>
+                           </div>
+                        </div>
+                        <div class="col-xl-12 col-md-6 pe-md-0 p-xl-0 no_p">
+                           <div class="mini-ad2 p-5">
+                               <h2 class="mb-5">Fashion <br>
+                                Clothes</h2>
+                                <a class="shopNowBtn"  href="./pages/shops/tops.html">SHOP NOW</a>
+                           </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Icon Boxes --> 
+        <section id="icon-boxes">
+            <div class="icon-container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-4">
+                        <div class="iconbox-inner">
+                            <div class="icon">
+                                <i class='bx bx-rocket'></i>
+                            </div>
+                            <div class="content">
+                                <h4>Free Delivery</h4>
+                                <p>On order over $90.00</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="iconbox-inner">
+                            <div class="icon">
+                                <i class='bx bx-revision'></i>  
+                            </div>                     
+                            <div class="content">
+                                <h4>Money Guarantee</h4>
+                                <p>30 Days money back!</p>
+                            </div>
+                        </div>                    
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="iconbox-inner">
+                            <div class="icon">
+                                <i class='bx bx-lock'></i>
+                            </div>
+                            <div class="content">
+                                <h4>Online Support 24/7 </h4>
+                                <p>We’re Always here!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Models --> 
+        <section id="models">
+        </section>
+        <!-- Footer --> 
+        <footer>
+            <section class="footer-body">
+                <div class="container">
+                    <div class="row py-5 px-1 ft-row">
+                        <div class="col-md-4 col-sm-12 col-lg-3 col-12 col">
+                            <div class="logo py-4">
+                                <img src="./images/logo.svg" alt="">
+                                <div class="logo-text mt-3">
+                                    <p>MEN FASHION</p>
+                                    <p>SHOP.</p> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-3 col-6 col">
+                            <h4 class="py-4 ft-contact">Contact</h3>
+                            <p>199 Chambers Street</p>
+                            <p>New York, NY 10007</p>
+                            <p>Phone: <a class="phone" href="tel:#">212 220-8000</a> </p>
+                            <a class="ft-mail" href="mailto:#" target="_blank">
+                                <p>info@menfashionshop.com</p> </a>
+                            <p>Hours: 9am – 4pm</p>
+                        </div>
+                        <div class="col-md-4  col-lg-3 col-6 col ft-info">
+                            <h4 class="py-4">Information</h4>
+                            <a href="./pages/about.html">About</a>
+                            <a href="#">Customer Service</a>
+                            <a href="#"> Orders and Returns</a>
+                            <a href="./pages/contact.html">Contact</a>
+                            <a href="#">Sitemap</a>
+                        </div>
+                        <div class="col col-lg-3 col-12 ft-new">
+                            <h4 class="py-4">Newsletter</h4>
+                            <p class="mb-4">Style is something each of us already has, all we need to do is find it.</p>
+                            <div class="newLetter">
+                                <input class="subscribe-input" placeholder="Enter your email ..." type="email">
+                                <a class="subscribe-btn" href="#">
+                                    <span>Subscribe</span>
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class=" py-3 px-4 footer-tail">
+                <p class="p-0 m-0">	&copy;2022 by MEN FASHION SHOP. All Rights Reserved.</p>
+                <div class="footer-tail-links">
+                    <a href="#">Disclaimer</a>
+                    <a href="#">PrivacyCookie</a>
+                    <a href="#">Statement</a>
+                </div>
+            </section>
+        </footer>
+    </main>
+</body>
+</html>

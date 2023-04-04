@@ -1,0 +1,873 @@
+[{
+  "accessories" : [
+    {
+        "id": "a1",
+        "itemName": "Men_Minimalist_Neck_Tie",
+        "price": 15.99,
+        "description": {
+            "Color": "Black",
+            "Composition": "100%_Polyester",
+            "Material": "Polyester",
+            "Pattern_Type": "Plain",
+            "Type": "Tie"
+        }
+    },
+    {
+    "id": "a2",
+    "itemName": "2pcs_Men_Square_Buckle_Belt",
+    "price": 19.99,
+    "description": {
+        "Color": "Multicolor",
+        "Style": "Casual",
+        "Stretch": "Non-Stretch",
+        "Pattern_Type": "Plain",
+        "Type": "PU_Buckle_Belts",
+        "Belts_Width": "Medium_Belt",
+        "Buckle_Type": "Square",
+        "Material": "PU_Leather"
+    }
+    },
+    {
+    "id": "a3",
+    "itemName": "2pcs_Men_Solid_Beanie",
+    "price": 19.99,
+    "description": {
+        "Color": "Multicolor",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Type": "Hat_Set",
+        "Material": "Acrylic"
+    }
+    },
+    {
+    "id": "a4",
+    "itemName": "Men_Paisley_Print_Bandana",
+    "price": 9.99,
+    "description": {
+        "Color": "_Multicolor",
+        "Type": "_Bandana",
+        "Composition": "_100%_Polyester",
+        "Material": "_Polyester"
+    }
+    },
+    {
+    "id": "a5",
+    "itemName": "Men_Square_Frame_Fashion_Glasses",
+    "price": 16.99,
+    "description": {
+        "Color": "Black",
+        "Style": "Casual",
+        "Shape": "Square",
+        "Material": "Plastic"
+    }
+    },
+    {
+    "id": "a6",
+    "itemName": "Men_Geo_Brooch",
+    "price": 16.99,
+    "description": {
+        "Color": "Yellow_Gold",
+        "Material": "Zinc_Alloy",
+        "Details": "Geometric"
+    }
+    },
+    {
+    "id": "a7",
+    "itemName": "Men_Letter_Decor_Cufflinks",
+    "price": 9.99,
+    "description": {
+        "Color": "Silver",
+        "Material": "Copper",
+        "Type": "Cuff_Links"
+    }
+    },
+    {
+    "id": "a8",
+    "itemName": "Men_Letter_Decor_Cufflinks",
+    "price": 9.99,
+    "description": {
+        "Gender": "Men",
+        "Color": "Yellow_Gold",
+        "Material": "Copper",
+        "Details": "Letter",
+        "Type": "Cuff_Links"
+    }
+    },
+    {
+    "id": "a9",
+    "itemName": "3pcs_Men_Minimalist_Baseball_Cap",
+    "price": 29.99,
+    "description": {
+        "Color": "Multicolor",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Type": "Hat_Set",
+        "Material": "Polyester"
+    }
+    },
+    {
+    "id": "a10",
+    "itemName": "Men_Minimalist_RFID_Card_Holder",
+    "price": 19.99,
+    "description": {
+        "Color": "Black",
+        "Type": "Card_Holder",
+        "Pattern_Type": "Plain",
+        "Material": "PU_Leather",
+        "Composition": "100%_Polyester"
+    }
+    },
+    {
+    "id": "a11",
+    "itemName": "Men_Deer_Head _Brooch",
+    "price": 9.99,
+    "description": {
+        "Color": "Yellow_Gold",
+        "Material": "Zinc_Alloy"
+    }
+    },
+    {
+    "id": "a12",
+    "itemName": "Men_Minimalist_Pant_Chain",
+    "price": 29.99,
+    "description": {
+        "Color": "Silver",
+        "Style": "Casual",
+        "Stretch": "Non-Stretch",
+        "Type": "Trouser_Chain",
+        "Belts_Width": "Thin_Belt",
+        "Buckle_Type": "No_Breasted",
+        "Material": "Iron"
+    }
+    }
+  ],
+  "bottoms" : [
+    {
+      "id": "b1",
+      "itemName": "Men_Vertical_Striped_Drawstring_Waist_Pants",
+      "price": 39.99,
+      "description": {
+        "Color": "Black",
+        "Style": "Casual",
+        "Pattern_Type": "Striped",
+        "Details": "Drawstring,_Pocket",
+        "Type": "Tapered/Carrot",
+        "Closure_Type": "Drawstring_Waist",
+        "Waist_Line": "Natural",
+        "Length": "Long",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "97%_Polyester,_3%_Elastane",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Belt": "No",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b2",
+      "itemName": "Men_Solid_Tapered_Pants",
+      "price": 39.99,
+      "description": {
+        "Color": "Navy_Blue",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Details": "Button,_Pocket,_Zipper",
+        "Type": "Tapered/Carrot",
+        "Closure_Type": "Zipper_Fly",
+        "Waist_Line": "Natural",
+        "Length": "Long",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Belt": "No",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b3",
+      "itemName": "Men_Corduroy_Straight_Leg_Pants",
+      "price": 39.99,
+      "description": {
+        "Color": "Khaki",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Details": "Button,_Pocket,_Zipper",
+        "Type": "Straight_Leg",
+        "Closure_Type": "Elastic_Waist",
+        "Waist_Line": "Natural",
+        "Length": "Long",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b4",
+      "itemName": "Men_Drawstring_Waist_Tapered_Pants",
+      "price": 39.99,
+      "description": {
+        "Color": "Black",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Details": "Drawstring,_Pocket,_Split",
+        "Type": "Tapered/Carrot",
+        "Closure_Type": "Drawstring_Waist",
+        "Waist_Line": "Natural",
+        "Length": "Long",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b5",
+      "itemName": "Men_Solid_Slant_Pockets_Tapered_Pants",
+      "price": 39.99,
+      "description": {
+        "Color": "Baby_Blue",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Details": "Button,_Pocket",
+        "Type": "Tapered/Carrot",
+        "Closure_Type": "Elastic_Waist",
+        "Waist_Line": "Natural",
+        "Length": "Long",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "92%_Polyester,_8%_Elastane",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b6",
+      "itemName": "Men_Plaid_Drawstring_Waist_Pants",
+      "price": 39.99,
+      "description": {
+        "Color": "Grey",
+        "Style": "Preppy",
+        "Pattern_Type": "Plaid",
+        "Details": "Drawstring",
+        "Type": "Tapered/Carrot",
+        "Closure_Type": "Drawstring_Waist",
+        "Waist_Line": "Natural",
+        "Length": "Long",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Belt": "No",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b7",
+      "itemName": "Men_Slant_Pocket_Cord_Pants",
+      "price": 39.99,
+      "description": {
+        "Color": "Khaki",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Details": "Button,_Pocket,_Zipper",
+        "Type": "Tapered/Carrot",
+        "Closure_Type": "Zipper_Fly",
+        "Waist_Line": "Natural",
+        "Length": "Long",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Corduroy",
+        "Composition": "97%_Polyester,_3%_Elastane",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b8",
+      "itemName": "Men_Striped_Drawstring_Shorts",
+      "price": 24.99,
+      "description": {
+        "Color": "Dusty_Blue",
+        "Style": "Casual",
+        "Pattern_Type": "Striped",
+        "Details": "Drawstring,_Pocket",
+        "Type": "Straight_Leg",
+        "Closure_Type": "Drawstring_Waist",
+        "Waist_Line": "Natural",
+        "Length": "Crop",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "50%_Cotton,_50%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b9",
+      "itemName": "Men_Slant_Pocket_Button_Zipper_Fly_Shorts",
+      "price": 24.99,
+      "description": {
+        "Color": "Grey",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Details": "Button,_Pocket,_Zipper",
+        "Type": "Straight_Leg",
+        "Closure_Type": "Zipper_Fly",
+        "Waist_Line": "Natural",
+        "Length": "Crop",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b10",
+      "itemName": "Men_Drawstring_Waist_Shorts",
+      "price": 24.99,
+      "description": {
+        "Color": "Beige",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Details": "Drawstring,_Pocket",
+        "Type": "Straight_Leg",
+        "Closure_Type": "Drawstring_Waist",
+        "Waist_Line": "Natural",
+        "Length": "Crop",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Viscose",
+        "Composition": "70%_Viscose,_30%_Linen",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Belt": "No",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b11",
+      "itemName": "Men_Drawstring_Waist_Patched_Detail_Striped_Shorts",
+      "price": 24.99,
+      "description": {
+        "Color": "Black",
+        "Style": "Preppy",
+        "Pattern_Type": "Striped",
+        "Details": "Drawstring,_Patched,_Pocket",
+        "Type": "Track_Shorts",
+        "Closure_Type": "Drawstring_Waist",
+        "Waist_Line": "High_Waist",
+        "Length": "Crop",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Slight_Stretch",
+        "Material": "Fabric",
+        "Composition": "95%_Polyester,_5%_Elastane",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "b12",
+      "itemName": "Men_Drawstring_Waist_Solid_Track_Shorts",
+      "price": 24.99,
+      "description": {
+        "Color": "Black",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Details": "Drawstring",
+        "Type": "Track_Shorts",
+        "Closure_Type": "Drawstring_Waist",
+        "Waist_Line": "Natural",
+        "Length": "Crop",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Slight_Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    }
+  ],
+  "shoes" : [
+    {
+      "id": "s1",
+      "itemName": "Men_Stitch_Detail_Chelsea_Boots",
+      "price": 99.99,
+      "description": {
+        "Outsole_Material": "PVC",
+        "Upper_Material": "PU_Leather",
+        "Boots_Height_Type": "Ankle_Boots",
+        "Color": "Brown",
+        "Type": "Chelsea_Boots",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Closure_Type": "No_zipper",
+        "Insole_Material": "EVA",
+        "Lining_Material": "PU_Leather"
+      }
+    },
+    {
+      "id": "s2",
+      "itemName": "Men_Lace-up_Front_Combat_Boots",
+      "price": 99.99,
+      "description": {
+        "Outsole_Material": "Rubber",
+        "Upper_Material": "Mesh",
+        "Boots_Height_Type": "Ankle_Boots",
+        "Color": "Brown",
+        "Type": "Combat_Boots",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Details": "Lace_Up",
+        "Closure_Type": "No_zipper",
+        "Insole_Material": "Mesh",
+        "Lining_Material": "Mesh"
+      }
+    },
+    {
+      "id": "s3",
+      "itemName": "Men_Side_Zipper_Chelsea_Boots",
+      "price": 99.99,
+      "description": {
+        "Outsole_Material": "Rubber",
+        "Upper_Material": "PU_Leather",
+        "Boots_Height_Type": "Ankle_Boots",
+        "Color": "Black",
+        "Type": "Chelsea_Boots",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Closure_Type": "No_zipper",
+        "Insole_Material": "PU_Leather",
+        "Lining_Material": "PU_Leather"
+      }
+    },
+    {
+      "id": "s4",
+      "itemName": "Men_Minimalist_Chelsea_Boots",
+      "price": 99.99,
+      "description": {
+        "Outsole_Material": "Rubber",
+        "Upper_Material": "PU_Leather",
+        "Boots_Height_Type": "Ankle_Boots",
+        "Color": "Black",
+        "Size_Fit": "True_To_Size",
+        "Type": "Chelsea_Boots",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Closure_Type": "No_zipper",
+        "Insole_Material": "PU_Leather",
+        "Lining_Material": "Fabric"
+      }
+    },
+    {
+      "id": "s5",
+      "itemName": "Men_Colorblock_Lace-up_Front_Sneakers",
+      "price": 69.99,
+      "description": {
+        "Color": "White",
+        "Insole_Material": "PU_Leather",
+        "Upper_Material": "PU_Leather",
+        "Outsole_Material": "PVC",
+        "Lining_Material": "Mesh"
+      }
+    },
+    {
+      "id": "s6",
+      "itemName": "Men_Lace-up_Front_Skate_Shoes",
+      "price": 69.99,
+      "description": {
+        "Color": "White",
+        "Strap_Type": "Lace_Up",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Insole_Material": "Mesh",
+        "Upper_Material": "PU_Leather",
+        "Outsole_Material": "EVA",
+        "Lining_Material": "Mesh",
+        "Type": "Skate_Shoes"
+      }
+    },
+    {
+      "id": "s7",
+      "itemName": "Men_Eyelet_Detail_Lace-up_Front_Canvas_Shoes",
+      "price": 69.99,
+      "description": {
+        "Color": "Black",
+        "Size_Fit": "One_Size_Smaller",
+        "Strap_Type": "Lace_Up",
+        "Pattern_Type": "Plain",
+        "Details": "Lace_Up",
+        "Insole_Material": "Mesh",
+        "Upper_Material": "Canvas",
+        "Outsole_Material": "PVC",
+        "Lining_Material": "Mesh",
+        "Type": "Canvas"
+      }
+    },
+    {
+      "id": "s8",
+      "itemName": "Men_Lace-up_Front_Skate_Shoes",
+      "price": 49.99,
+      "description": {
+        "Color": "Black",
+        "Size_Fit": "One_Size_Smaller",
+        "Strap_Type": "Lace_Up",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Insole_Material": "PU_Leather",
+        "Upper_Material": "PU_Leather",
+        "Outsole_Material": "PVC",
+        "Lining_Material": "Polyester",
+        "Type": "Skate_Shoes"
+      }
+    },
+    {
+      "id": "s9",
+      "itemName": "Men_Lace-up_Front_Skate_Shoes",
+      "price": 49.99,
+      "description": {
+        "Color": "White",
+        "Strap_Type": "Lace_Up",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Insole_Material": "PU_Leather",
+        "Upper_Material": "Canvas",
+        "Outsole_Material": "PVC",
+        "Lining_Material": "Polyester",
+        "Type": "Skate_Shoes"
+      }
+    },
+    {
+      "id": "s10",
+      "itemName": "Men_Lace-up_Front_Skate_Shoes",
+      "price": 99.99,
+      "description": {
+        "Color": "Brown",
+        "Strap_Type": "Lace_Up",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Insole_Material": "PU_Leather",
+        "Upper_Material": "PU_Leather",
+        "Outsole_Material": "PVC",
+        "Type": "Skate_Shoes"
+      }
+    },
+    {
+      "id": "s11",
+      "itemName": "Men_Zip_Side_Lace-up_Front_Combat_Boots",
+      "price": 99.99,
+      "description": {
+        "Outsole_Material": "Rubber",
+        "Upper_Material": "PU_Leather",
+        "Boots_Height_Type": "Ankle_Boots",
+        "Color": "Black",
+        "Type": "Combat_Boots",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Closure_Type": "Side_zipper",
+        "Insole_Material": "Mesh",
+        "Lining_Material": "PU_Leather"
+      }
+    },
+    {
+      "id": "s12",
+      "itemName": "Men_Letter_Embossed_Lace-up_Front_Combat_Boots",
+      "price": 99.99,
+      "description": {
+        "Outsole_Material": "Rubber",
+        "Upper_Material": "PU_Leather",
+        "Boots_Height_Type": "Ankle_Boots",
+        "Color": "Black",
+        "Type": "Combat_Boots",
+        "Pattern_Type": "Plain",
+        "Toe": "Round_Toe",
+        "Closure_Type": "No_zipper",
+        "Insole_Material": "Fabric",
+        "Lining_Material": "PU_Leather"
+      }
+    }
+  ],
+  "tops" : [
+    {
+      "id": "t1",
+      "itemName": "Men_Button_Up_Curved_Hem_Shirt",
+      "price": 29.99,
+      "description": {
+        "Color": "Grey",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Type": "Shirt",
+        "Neckline": "Collar",
+        "Details": "Button_Front",
+        "Sleeve_Length": "Short_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "Semi-Sheer"
+      }
+    },
+    {
+      "id": "t2",
+      "itemName": "Men_Solid_Textured_Button_Front_Shirt",
+      "price": 29.99,
+      "description": {
+        "Color": "Black",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Type": "Shirt",
+        "Neckline": "Collar",
+        "Details": "Button_Front",
+        "Sleeve_Length": "Short_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Cotton",
+        "Composition": "100%_Cotton",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t3",
+      "itemName": "Men_Floral_Jacquard_Satin_Shirt",
+      "price": 29.99,
+      "description": {
+        "Color": "Black",
+        "Style": "Casual",
+        "Pattern_Type": "Floral",
+        "Type": "Shirt",
+        "Neckline": "Collar",
+        "Details": "Button_Front",
+        "Sleeve_Length": "Short_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Satin",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash,_do_not_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t4",
+      "itemName": "Men_Contrast_Plaid_Collar_Polo_Shirt",
+      "price": 25.99,
+      "description": {
+        "Color": "White",
+        "Style": "Casual",
+        "Pattern_Type": "Plaid",
+        "Neckline": "Polo",
+        "Details": "Contrast_Collar,_Button_Front",
+        "Sleeve_Length": "Short_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Slight_Stretch",
+        "Material": "Cotton",
+        "Composition": "95%_Cotton,_5%_Elastane",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Belt": "No",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t5",
+      "itemName": "Men_4pcs_Round_Neck_Solid_Tee",
+      "price": 49.99,
+      "description": {
+        "Color": "Multicolor",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Neckline": "Round_Neck",
+        "Sleeve_Length": "Short_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Slight_Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t6",
+      "itemName": "Men_Letter_Graphic_Tee",
+      "price": 14.99,
+      "description": {
+        "Color": "Khaki",
+        "Style": "Casual",
+        "Pattern_Type": "Letter",
+        "Neckline": "Round_Neck",
+        "Sleeve_Length": "Short_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Slight_Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t7",
+      "itemName": "Men_Plaid_Print_Shirt_Without_Tee",
+      "price": 24.99,
+      "description": {
+        "Color": "Multicolor",
+        "Style": "Casual",
+        "Pattern_Type": "Plaid",
+        "Type": "Shirt",
+        "Neckline": "Collar",
+        "Details": "Button_Front",
+        "Sleeve_Length": "Long_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "69%_Polyester,_29%_Cotton,_2%_Viscose",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t8",
+      "itemName": "Men_Plaid_Print_Shirt_Without_Tee",
+      "price": 24.99,
+      "description": {
+        "Color": "Black_and_White",
+        "Style": "Casual",
+        "Pattern_Type": "Plaid",
+        "Type": "Shirt",
+        "Neckline": "Collar",
+        "Details": "Button_Front",
+        "Sleeve_Length": "Long_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t9",
+      "itemName": "Men_Color_Block_Patched_Pocket_Corduroy_Shirt_",
+      "price": 24.99,
+      "description": {
+        "Color": "Multicolor",
+        "Style": "Casual",
+        "Pattern_Type": "Colorblock",
+        "Type": "Shirt",
+        "Neckline": "Collar",
+        "Details": "Button_Front",
+        "Sleeve_Length": "Long_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Corduroy",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t10",
+      "itemName": "Men_Flap_Pocket_Corduroy_Shirt_",
+      "price": 24.99,
+      "description": {
+        "Color": "Apricot",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Type": "Shirt",
+        "Neckline": "Collar",
+        "Details": "Pocket,_Button_Front",
+        "Sleeve_Length": "Long_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Non-Stretch",
+        "Material": "Corduroy",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Body": "Unlined",
+        "Belt": "No",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t11",
+      "itemName": "Men_Quarter_Button_Tee",
+      "price": 19.99,
+      "description": {
+        "Color": "Black",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Neckline": "V_neck",
+        "Details": "Button",
+        "Sleeve_Length": "Long_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Slight_Stretch",
+        "Material": "Fabric",
+        "Composition": "100%_Polyester",
+        "Care_Instructions": "Machine_wash,_do_not_dry_clean",
+        "Sheer": "No"
+      }
+    },
+    {
+      "id": "t12",
+      "itemName": "Men_Round_Neck_Solid_Top",
+      "price": 19.99,
+      "description": {
+        "Color": "Black",
+        "Style": "Casual",
+        "Pattern_Type": "Plain",
+        "Neckline": "Round_Neck",
+        "Sleeve_Length": "Long_Sleeve",
+        "Sleeve_Type": "Regular_Sleeve",
+        "Length": "Regular",
+        "Fit_Type": "Regular_Fit",
+        "Fabric": "Slight_Stretch",
+        "Material": "Fabric",
+        "Composition": "95%_Polyester,_5%_Elastane",
+        "Care_Instructions": "Machine_wash_or_professional_dry_clean",
+        "Sheer": "No"
+      }
+    }
+  ]
+}]
+ 
